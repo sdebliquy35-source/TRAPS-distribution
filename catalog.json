@@ -22,8 +22,24 @@
       ]
     },
     "jugement": {
-      "latest": null,
-      "releases": []
+      "latest": {
+        "build": 68,
+        "version": "0.68",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-68/Jugement_TRAPS_0.68_Windows_x64.exe",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-68",
+        "sha256": "1faecaacc1e61f52d0d046b44f98298670559de88995fbe015ac904eecc54469",
+        "bytes": 123523320
+      },
+      "releases": [
+        {
+          "build": 68,
+          "version": "0.68",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-68/Jugement_TRAPS_0.68_Windows_x64.exe",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-68",
+          "sha256": "1faecaacc1e61f52d0d046b44f98298670559de88995fbe015ac904eecc54469",
+          "bytes": 123523320
+        }
+      ]
     }
   }
 }
