@@ -1,0 +1,8 @@
+# Guides d’utilisation
+
+- [TRAPS 2.0 pour Android](Guide_TRAPS_2.0.pdf)
+- [Jugement TRAPS — Serveur et Poste Juge Arbitre](Guide_Jugement_TRAPS.pdf)
+
+Guides illustrés, organisés par pages thématiques. Référence : APK108 et Jugement0.70, révision du 12 novembre2026. Les captures utilisent une course fictive.
+
+Les fichiers sont remplacés à ces mêmes emplacements lors d’une mise à jour : ces liens restent identiques. Les sources éditables des guides et des applications restent privées.
