@@ -29,7 +29,11 @@ for r in releases:
     if digest and digest!='sha256:'+sha:raise ValueError('Empreinte différente du fichier GitHub')
     expected=('traps-' if app=='traps' else 'jugement-')+str(build)
     if r['tag_name']!=expected:raise ValueError('Tag et version différents')
-    apps[app].append(dict(build=build,version=value['version'],url=asset['browser_download_url'],page=r['html_url'],sha256=sha,bytes=asset['size'],_release=r['id']))
+    entry=dict(build=build,version=value['version'],url=asset['browser_download_url'],page=r['html_url'],sha256=sha,bytes=asset['size'],_release=r['id'])
+    if app=='jugement' and 'installerProtocol' in value:
+        if type(value['installerProtocol'])is not int or value['installerProtocol']!=1 or not re.fullmatch('[a-f0-9]{64}',value.get('licenseSha256','')):raise ValueError('Protocole ou licence de mise à jour invalide')
+        entry.update(installerProtocol=1,licenseSha256=value['licenseSha256'])
+    apps[app].append(entry)
 # Publish a catalogue with ten entries first, before removing any superseded downloads.
 catalog={'schema':1,'applications':{}}
 old=[]
