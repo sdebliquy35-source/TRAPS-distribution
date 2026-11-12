@@ -6,6 +6,15 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 
 ➡ [Télécharger une version publiée](https://github.com/sdebliquy35-source/TRAPS-distribution/releases)
 
+## Guides illustrés
+
+- [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
+- [Guide Jugement TRAPS - Serveur et Juge Arbitre (14 pages)](guides/Guide_Jugement_TRAPS.pdf)
+
+Les guides sont mis à jour à ces mêmes liens. Référence actuelle : APK108 et Jugement 0.70. Les captures utilisent une course fictive.
+
+## Installation et mises à jour
+
 Jugement contient Python et son visualiseur. Installer puis choisir **Serveur Jugement** ou **Poste Juge Arbitre** au premier lancement. Le rôle peut ensuite être changé dans **Poste et connexion**. Le JA s’associe au Serveur avec le code à six chiffres existant.
 
 Les mises à jour sont recherchées au démarrage et signalées dans les applications. Aucune recherche périodique pendant la course ; un contrôle manuel reste possible. Aucune installation automatique pendant une course. Les données de course ne sont pas publiées ici et restent conservées sur les appareils.
@@ -18,4 +27,4 @@ Pour une installation existante de Jugement : arrêter l’ancien serveur, garde
 
 L’installateur demande les droits administrateur et configure la réception sur le réseau local. À partir de Jugement 0.70, **Installer et redémarrer** télécharge, vérifie, arrête proprement puis relance le programme, après confirmation de l’opérateur. Aucun téléchargement du paquet ni installation sans cet accord. Pour installer 0.70 depuis une version antérieure, utiliser une dernière fois **Arrêter Jugement et quitter** puis lancer l’installateur téléchargé. Fermer seulement le visualiseur laisse la réception fonctionner en arrière-plan. Les demandes de sécurité Windows peuvent rester nécessaires.
 
-Validation de Jugement 0.68 : 664 tests réussis sur Windows et contrôle du programme autonome. Le premier essai opérationnel du visualiseur, de l’impression et des fenêtres sur plusieurs écrans reste à réaliser sur les PC de course. L’installateur n’a pas de certificat commercial de signature Windows.
+Validation de Jugement 0.70 : 676 tests réussis sur Windows, contrôle du programme autonome, de son rendu Qt et de l’assistant séparé. Le premier essai opérationnel du visualiseur, de l’impression et des fenêtres sur plusieurs écrans reste à réaliser sur les PC de course. L’installateur n’a pas de certificat commercial de signature Windows.
