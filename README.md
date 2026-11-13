@@ -11,7 +11,7 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 - [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
 - [Guide Jugement TRAPS - Serveur et Juge Arbitre (14 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence actuelle : APK108 et Jugement 0.70. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK110 et Jugement 0.72. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
