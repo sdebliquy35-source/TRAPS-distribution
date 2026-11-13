@@ -1,5 +1,18 @@
 # Téléchargements TRAPS
 
+> [!IMPORTANT]
+> **Jugement 0.70 : erreur de certificat pendant « Installer et redémarrer » ?**
+>
+> Installez cette mise à jour une fois depuis votre navigateur :
+>
+> **[Télécharger Jugement 0.73 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-73/Jugement_TRAPS_0.73_Windows_x64.exe)**
+>
+> 1. Téléchargez le fichier dans votre navigateur.
+> 2. Dans Jugement, choisissez **Arrêter Jugement et quitter**. Fermer seulement la fenêtre ne suffit pas.
+> 3. Lancez le fichier téléchargé, **sans désinstaller Jugement ni effacer ses données**.
+>
+> La 0.73 corrige la gestion des certificats pour les prochaines mises à jour. La 0.70 déjà installée ne peut pas réparer elle-même son téléchargement défaillant. La même procédure s’applique aux autres anciennes versions présentant cette erreur.
+
 **TRAPS 2.0 pour Android** et **Jugement_TRAPS pour Windows 10/11 64 bits**.
 
 Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les dépôts de sources restent privés. Les logiciels restent soumis à leur licence propriétaire ; un téléchargement public ne constitue pas une autorisation de redistribution ou de modification.
@@ -11,7 +24,7 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 - [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
 - [Guide Jugement TRAPS - Serveur et Juge Arbitre (14 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK110 et Jugement 0.72. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK110 et Jugement 0.73. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
