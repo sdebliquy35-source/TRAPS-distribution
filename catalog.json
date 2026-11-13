@@ -3,14 +3,22 @@
   "applications": {
     "traps": {
       "latest": {
-        "build": 108,
-        "version": "2.0.0-108",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-108/TRAPS_2.0_APK108.apk",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-108",
-        "sha256": "b947f4c4f12cf632bbc8460a2ed18b40fc9753dc35ab11d700b84adeab67940c",
-        "bytes": 2841678
+        "build": 109,
+        "version": "2.0.0-109",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-109/TRAPS_2.0_APK109.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-109",
+        "sha256": "6fdee626cac881d811e0e4d30c5a29dfd2b2a3b007bd9e77c9aa6556210a4b8c",
+        "bytes": 2845774
       },
       "releases": [
+        {
+          "build": 109,
+          "version": "2.0.0-109",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-109/TRAPS_2.0_APK109.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-109",
+          "sha256": "6fdee626cac881d811e0e4d30c5a29dfd2b2a3b007bd9e77c9aa6556210a4b8c",
+          "bytes": 2845774
+        },
         {
           "build": 108,
           "version": "2.0.0-108",
