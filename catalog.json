@@ -47,16 +47,26 @@
     },
     "jugement": {
       "latest": {
-        "build": 73,
-        "version": "0.73",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-73/Jugement_TRAPS_0.73_Windows_x64.exe",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-73",
-        "sha256": "b2b6d49017c43974d6b1451222475da0e4a96d530a3cabe73601ddc1062eab55",
-        "bytes": 133684028,
+        "build": 74,
+        "version": "0.74",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-74/Jugement_TRAPS_0.74_Windows_x64.exe",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-74",
+        "sha256": "fd3cca2483151c07fb0c6649028e1c9477fe5ae3dae7cbf5782648b1b2fe8aa0",
+        "bytes": 133695892,
         "installerProtocol": 1,
         "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
       },
       "releases": [
+        {
+          "build": 74,
+          "version": "0.74",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-74/Jugement_TRAPS_0.74_Windows_x64.exe",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-74",
+          "sha256": "fd3cca2483151c07fb0c6649028e1c9477fe5ae3dae7cbf5782648b1b2fe8aa0",
+          "bytes": 133695892,
+          "installerProtocol": 1,
+          "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
+        },
         {
           "build": 73,
           "version": "0.73",
