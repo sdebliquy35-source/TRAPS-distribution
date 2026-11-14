@@ -5,7 +5,7 @@
 >
 > Installez cette mise à jour une fois depuis votre navigateur :
 >
-> **[Télécharger Jugement 0.74 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-74/Jugement_TRAPS_0.74_Windows_x64.exe)**
+> **[Télécharger Jugement 0.75 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-75/Jugement_TRAPS_0.75_Windows_x64.exe)**
 >
 > 1. Téléchargez le fichier dans votre navigateur.
 > 2. Dans Jugement, choisissez **Arrêter Jugement et quitter**. Fermer seulement la fenêtre ne suffit pas.
@@ -21,17 +21,17 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 
 ## Versions disponibles
 
-- **[Jugement TRAPS 0.74 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-74/Jugement_TRAPS_0.74_Windows_x64.exe)**
-- **[TRAPS 2.0 — APK110 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-110/TRAPS_2.0_APK110.apk)**
+- **[Jugement TRAPS 0.75 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-75/Jugement_TRAPS_0.75_Windows_x64.exe)**
+- **[TRAPS 2.0 — APK111 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-111/TRAPS_2.0_APK111.apk)**
 
-Jugement 0.74 inclut les contrôles des révisions et effacements, la correction de sélection des chronos après restauration et l’ordre des départs dans les fiches/tableaux. APK110 reste la version Android actuelle ; les correctifs 0.74 ne nécessitent pas de changement sur les téléphones.
+Jugement 0.75 rend visibles les résultats de vérification avant renvoi vers TrapsManager et distingue les états jaune, rouge et actif de la liaison CompetFFCK. APK111 rétablit les destinataires JA après reconnexion. Les procédures de saisie, d’envoi, de confirmation et de reprise sont conservées.
 
 ## Guides illustrés
 
 - [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
-- [Guide Jugement TRAPS - Serveur et Juge Arbitre (14 pages)](guides/Guide_Jugement_TRAPS.pdf)
+- [Guide Jugement TRAPS - Serveur et Juge Arbitre (15 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK110 et Jugement 0.74. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK111 et Jugement 0.75. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
