@@ -15,7 +15,7 @@ while True:
     batch=request('/releases?per_page=100&page='+str(page));releases+=batch
     if len(batch)<100:break
     page+=1
-apps={'traps':[],'jugement':[]};known=[]
+apps={'traps':[],'jugement':[],'wifi':[]};known=[]
 for r in releases:
     if r.get('draft') or r.get('prerelease'):continue
     metadata=next((a for a in r['assets'] if a['name']=='release.json'),None)
@@ -27,7 +27,7 @@ for r in releases:
     asset=next(a for a in r['assets'] if a['name']==name)
     digest=asset.get('digest')
     if digest and digest!='sha256:'+sha:raise ValueError('Empreinte différente du fichier GitHub')
-    expected=('traps-' if app=='traps' else 'jugement-')+str(build)
+    expected={'traps':'traps-','jugement':'jugement-','wifi':'wifi-'}[app]+str(build)
     if r['tag_name']!=expected:raise ValueError('Tag et version différents')
     entry=dict(build=build,version=value['version'],url=asset['browser_download_url'],page=r['html_url'],sha256=sha,bytes=asset['size'],_release=r['id'])
     if app=='jugement' and 'installerProtocol' in value:
