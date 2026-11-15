@@ -166,6 +166,26 @@
           "bytes": 123523320
         }
       ]
+    },
+    "wifi": {
+      "latest": {
+        "build": 6,
+        "version": "1.5",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/wifi-6/TRAPS-Wifi-1.5.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/wifi-6",
+        "sha256": "2d109b63f886cb89ddf6b7fef545b116046b7dd9fd29bb161f11b45db4c16845",
+        "bytes": 376332
+      },
+      "releases": [
+        {
+          "build": 6,
+          "version": "1.5",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/wifi-6/TRAPS-Wifi-1.5.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/wifi-6",
+          "sha256": "2d109b63f886cb89ddf6b7fef545b116046b7dd9fd29bb161f11b45db4c16845",
+          "bytes": 376332
+        }
+      ]
     }
   }
 }
