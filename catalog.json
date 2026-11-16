@@ -3,14 +3,22 @@
   "applications": {
     "traps": {
       "latest": {
-        "build": 118,
-        "version": "2.0.0-118",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-118/TRAPS_2.0_APK118.apk",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-118",
-        "sha256": "d2b9f5531b99df563435beb6d152711e922eb128a647fe543b88a25f450596f3",
+        "build": 119,
+        "version": "2.0.0-119",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-119/TRAPS_2.0_APK119.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-119",
+        "sha256": "c55472fa30e103d586644b39f5724102a3a209e146372d90ee78a4bda687f6d4",
         "bytes": 2841748
       },
       "releases": [
+        {
+          "build": 119,
+          "version": "2.0.0-119",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-119/TRAPS_2.0_APK119.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-119",
+          "sha256": "c55472fa30e103d586644b39f5724102a3a209e146372d90ee78a4bda687f6d4",
+          "bytes": 2841748
+        },
         {
           "build": 118,
           "version": "2.0.0-118",
@@ -81,14 +89,6 @@
           "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-108/TRAPS_2.0_APK108.apk",
           "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-108",
           "sha256": "b947f4c4f12cf632bbc8460a2ed18b40fc9753dc35ab11d700b84adeab67940c",
-          "bytes": 2841678
-        },
-        {
-          "build": 107,
-          "version": "2.0.0-107",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-107/TRAPS_2.0_APK107.apk",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-107",
-          "sha256": "7db9e2cc847e114ba0011ebc5cd0c123e1ddae08436bbc83f2e0eb4513e12fe6",
           "bytes": 2841678
         }
       ]
