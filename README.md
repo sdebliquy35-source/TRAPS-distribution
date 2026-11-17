@@ -28,12 +28,20 @@ APK120 corrige l’écoute des signalements par les chronos confirmés, ajoute l
 
 TRAPS communique uniquement avec Jugement : plus de découverte, téléchargement de liste, envoi, ACK ou réessai direct TrapsManager. Pénalités prioritaires, justifications/audio et reprises durables conservées. Jugement 0.79 adapte le suivi technique, conserve les anciens téléphones et les renvois volontaires vers Manager depuis le PC. La liaison CompetFFCK TCP/LUA ne change pas. Le suivi Wi-Fi/antenne et la fin de course manuelle sont aussi inclus.
 
+## Versions en test
+
+- **[Jugement TRAPS 0.84 — préversion Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-84)**
+- **[TRAPS 2.0 APK121 — préversion Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-121)**
+- [Protocole des essais : priorités, révisions, ACK et reprises](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-121/PROTOCOLE-ESSAI-084-121.md)
+
+Ces préversions sont destinées aux essais et ne remplacent pas les versions du catalogue automatique. **Installer Jugement 0.84 avant l’APK121.** Elles réduisent les copies Slalom aux justifications validées, conservent les ACK durables et les reprises, rendent les chronos sélectionnés prioritaires et alternent chronos continus/pénalités. Le retour Serveur depuis un JA jamais associé est corrigé. Le gain en conditions radio réelles reste à mesurer ; consulter les limites indiquées dans les notes de release.
+
 ## Guides illustrés
 
 - [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
 - [Guide Jugement TRAPS - Serveur et Juge Arbitre (15 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK120, Jugement Windows public 0.79 et fonctions déportées dès 0.82, révision du 17 novembre 2026. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence des guides : versions du catalogue APK120/Jugement 0.79, avec les fonctions d’essai APK121/Jugement 0.84 clairement signalées, révision du 17 novembre 2026. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
