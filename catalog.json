@@ -3,14 +3,22 @@
   "applications": {
     "traps": {
       "latest": {
-        "build": 119,
-        "version": "2.0.0-119",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-119/TRAPS_2.0_APK119.apk",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-119",
-        "sha256": "c55472fa30e103d586644b39f5724102a3a209e146372d90ee78a4bda687f6d4",
-        "bytes": 2841748
+        "build": 120,
+        "version": "2.0.0-120",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-120/TRAPS_2.0_APK120.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-120",
+        "sha256": "a5ea98ac89c7abb4ea94113e1488686fedc5b6b47e1c7dd35c7fbadbdbeabed5",
+        "bytes": 2845844
       },
       "releases": [
+        {
+          "build": 120,
+          "version": "2.0.0-120",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-120/TRAPS_2.0_APK120.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-120",
+          "sha256": "a5ea98ac89c7abb4ea94113e1488686fedc5b6b47e1c7dd35c7fbadbdbeabed5",
+          "bytes": 2845844
+        },
         {
           "build": 119,
           "version": "2.0.0-119",
@@ -82,14 +90,6 @@
           "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-109",
           "sha256": "6fdee626cac881d811e0e4d30c5a29dfd2b2a3b007bd9e77c9aa6556210a4b8c",
           "bytes": 2845774
-        },
-        {
-          "build": 108,
-          "version": "2.0.0-108",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-108/TRAPS_2.0_APK108.apk",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-108",
-          "sha256": "b947f4c4f12cf632bbc8460a2ed18b40fc9753dc35ab11d700b84adeab67940c",
-          "bytes": 2841678
         }
       ]
     },
