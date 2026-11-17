@@ -22,9 +22,9 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 ## Versions disponibles
 
 - **[Jugement TRAPS 0.79 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-79/Jugement_TRAPS_0.79_Windows_x64.exe)**
-- **[TRAPS 2.0 — APK116 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-116/TRAPS_2.0_APK116.apk)**
+- **[TRAPS 2.0 — APK120 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-120/TRAPS_2.0_APK120.apk)**
 
-APK116 ajoute le téléchargement intégré des prochaines mises à jour, sans navigateur ni compte Google, avec vérification du fichier et de sa signature puis installation choisie par l’opérateur. Pour installer APK116 depuis une ancienne version, télécharger cette APK et l’installer sans désinstaller TRAPS.
+APK120 corrige l’écoute des signalements par les chronos confirmés, ajoute les juges déportés Slalom et fait varier les passages entre postes de l’essai automatique (7 à 13 secondes ; départs toutes les 10 secondes). Les déportés nécessitent Jugement 0.82 ou plus récent ; cette version PC est actuellement distribuée séparément pour les essais, l’installateur Windows public reste en 0.79. Les limites de validation sont précisées dans les notes de la release. Le téléchargement intégré et la signature historique sont conservés. Installer sans désinstaller TRAPS.
 
 TRAPS communique uniquement avec Jugement : plus de découverte, téléchargement de liste, envoi, ACK ou réessai direct TrapsManager. Pénalités prioritaires, justifications/audio et reprises durables conservées. Jugement 0.79 adapte le suivi technique, conserve les anciens téléphones et les renvois volontaires vers Manager depuis le PC. La liaison CompetFFCK TCP/LUA ne change pas. Le suivi Wi-Fi/antenne et la fin de course manuelle sont aussi inclus.
 
@@ -33,7 +33,7 @@ TRAPS communique uniquement avec Jugement : plus de découverte, téléchargemen
 - [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
 - [Guide Jugement TRAPS - Serveur et Juge Arbitre (15 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK116 et Jugement 0.79, révision du 15 novembre 2026. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence actuelle des guides : APK120, Jugement Windows public 0.79 et fonctions déportées dès 0.82, révision du 17 novembre 2026. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
