@@ -3,14 +3,22 @@
   "applications": {
     "traps": {
       "latest": {
-        "build": 120,
-        "version": "2.0.0-120",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-120/TRAPS_2.0_APK120.apk",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-120",
-        "sha256": "a5ea98ac89c7abb4ea94113e1488686fedc5b6b47e1c7dd35c7fbadbdbeabed5",
-        "bytes": 2845844
+        "build": 122,
+        "version": "2.0.0-122",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-122/TRAPS_2.0_APK122.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-122",
+        "sha256": "9a56fd1787c001acb28b0d905c31ff6c36b644bf5630e9b521c3311e9e6d5885",
+        "bytes": 2969094
       },
       "releases": [
+        {
+          "build": 122,
+          "version": "2.0.0-122",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-122/TRAPS_2.0_APK122.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-122",
+          "sha256": "9a56fd1787c001acb28b0d905c31ff6c36b644bf5630e9b521c3311e9e6d5885",
+          "bytes": 2969094
+        },
         {
           "build": 120,
           "version": "2.0.0-120",
@@ -81,14 +89,6 @@
           "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-110/TRAPS_2.0_APK110.apk",
           "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-110",
           "sha256": "22350c1793fc05574a592889806667efdbf861b4b6a42862ff08d087997e80b9",
-          "bytes": 2845774
-        },
-        {
-          "build": 109,
-          "version": "2.0.0-109",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-109/TRAPS_2.0_APK109.apk",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-109",
-          "sha256": "6fdee626cac881d811e0e4d30c5a29dfd2b2a3b007bd9e77c9aa6556210a4b8c",
           "bytes": 2845774
         }
       ]
