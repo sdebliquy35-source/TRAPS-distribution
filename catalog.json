@@ -3,14 +3,22 @@
   "applications": {
     "traps": {
       "latest": {
-        "build": 122,
-        "version": "2.0.0-122",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-122/TRAPS_2.0_APK122.apk",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-122",
-        "sha256": "9a56fd1787c001acb28b0d905c31ff6c36b644bf5630e9b521c3311e9e6d5885",
-        "bytes": 2969094
+        "build": 126,
+        "version": "2.0.0-126",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-126/TRAPS_2.0_APK126.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-126",
+        "sha256": "c5a9f5f4a57e59dd9938b8c8191f86072b5136581cf6eb907aac36d9d90bf61c",
+        "bytes": 2973190
       },
       "releases": [
+        {
+          "build": 126,
+          "version": "2.0.0-126",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-126/TRAPS_2.0_APK126.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-126",
+          "sha256": "c5a9f5f4a57e59dd9938b8c8191f86072b5136581cf6eb907aac36d9d90bf61c",
+          "bytes": 2973190
+        },
         {
           "build": 122,
           "version": "2.0.0-122",
@@ -82,29 +90,31 @@
           "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-111",
           "sha256": "6c301d2ecab25253c6048b998db872a12360aa23624c50cefcfbb14e1b96fd5d",
           "bytes": 2845774
-        },
-        {
-          "build": 110,
-          "version": "2.0.0-110",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-110/TRAPS_2.0_APK110.apk",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-110",
-          "sha256": "22350c1793fc05574a592889806667efdbf861b4b6a42862ff08d087997e80b9",
-          "bytes": 2845774
         }
       ]
     },
     "jugement": {
       "latest": {
-        "build": 79,
-        "version": "0.79",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-79/Jugement_TRAPS_0.79_Windows_x64.exe",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-79",
-        "sha256": "9c9aedcf598ef84e8224875bd1c9c576043167c389dc96dc8ae61a5bd79e7e69",
-        "bytes": 133724298,
+        "build": 97,
+        "version": "0.97",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-97/Jugement_TRAPS_0.97_Windows_x64.exe",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-97",
+        "sha256": "256d88e0b289181f4fe939b8f4a65f50217a1f07601b842f71322d0568024ff7",
+        "bytes": 133799202,
         "installerProtocol": 1,
         "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
       },
       "releases": [
+        {
+          "build": 97,
+          "version": "0.97",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-97/Jugement_TRAPS_0.97_Windows_x64.exe",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-97",
+          "sha256": "256d88e0b289181f4fe939b8f4a65f50217a1f07601b842f71322d0568024ff7",
+          "bytes": 133799202,
+          "installerProtocol": 1,
+          "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
+        },
         {
           "build": 79,
           "version": "0.79",
