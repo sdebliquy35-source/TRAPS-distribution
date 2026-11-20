@@ -5,7 +5,7 @@
 >
 > Installez cette mise à jour une fois depuis votre navigateur :
 >
-> **[Télécharger Jugement 0.79 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-79/Jugement_TRAPS_0.79_Windows_x64.exe)**
+> **[Télécharger Jugement 0.97 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-97/Jugement_TRAPS_0.97_Windows_x64.exe)**
 >
 > 1. Téléchargez le fichier dans votre navigateur.
 > 2. Dans Jugement, choisissez **Arrêter Jugement et quitter**. Fermer seulement la fenêtre ne suffit pas.
@@ -21,27 +21,21 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 
 ## Versions disponibles
 
-- **[Jugement TRAPS 0.79 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-79/Jugement_TRAPS_0.79_Windows_x64.exe)**
-- **[TRAPS 2.0 — APK120 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-120/TRAPS_2.0_APK120.apk)**
+- **[Jugement TRAPS 0.97 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-97/Jugement_TRAPS_0.97_Windows_x64.exe)**
+- **[TRAPS 2.0 — APK126 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-126/TRAPS_2.0_APK126.apk)**
 
-APK120 corrige l’écoute des signalements par les chronos confirmés, ajoute les juges déportés Slalom et fait varier les passages entre postes de l’essai automatique (7 à 13 secondes ; départs toutes les 10 secondes). Les déportés nécessitent Jugement 0.82 ou plus récent ; cette version PC est actuellement distribuée séparément pour les essais, l’installateur Windows public reste en 0.79. Les limites de validation sont précisées dans les notes de la release. Le téléchargement intégré et la signature historique sont conservés. Installer sans désinstaller TRAPS.
+Versions officielles **Jugement0.97** et **TRAPS2.0 APK126**. Elles réunissent les évolutions validées de réception, d’ACK durables et de rattrapage, les juges déportés Slalom, les priorités de chronos, les comparaisons de fiches par poste et le suivi des tableaux dans l’ordre des départs. APK126 conserve le rôle chrono déjà confirmé lors du vidage de la course en mode automatique ; l’essai revient désarmé. Installer comme mise à jour, sans désinstaller les applications.
 
-TRAPS communique uniquement avec Jugement : plus de découverte, téléchargement de liste, envoi, ACK ou réessai direct TrapsManager. Pénalités prioritaires, justifications/audio et reprises durables conservées. Jugement 0.79 adapte le suivi technique, conserve les anciens téléphones et les renvois volontaires vers Manager depuis le PC. La liaison CompetFFCK TCP/LUA ne change pas. Le suivi Wi-Fi/antenne et la fin de course manuelle sont aussi inclus.
+Le bouton Mise à jour de Jugement propose Jugement ou TRAPS2.0 ; la recherche TRAPS consulte maintenant directement les fichiers publics GitHub. Les opérateurs des téléphones confirment le téléchargement et l’installation. La voie « Jugement local » reste compatible lorsqu’une APK est fournie par l’organisation. La signature Android historique est conservée.
 
-## Versions en test
-
-- **[Jugement TRAPS 0.84 — préversion Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-84)**
-- **[TRAPS 2.0 APK121 — préversion Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-121)**
-- [Protocole des essais : priorités, révisions, ACK et reprises](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-121/PROTOCOLE-ESSAI-084-121.md)
-
-Ces préversions sont destinées aux essais et ne remplacent pas les versions du catalogue automatique. **Installer Jugement 0.84 avant l’APK121.** Elles réduisent les copies Slalom aux justifications validées, conservent les ACK durables et les reprises, rendent les chronos sélectionnés prioritaires et alternent chronos continus/pénalités. Le retour Serveur depuis un JA jamais associé est corrigé. Le gain en conditions radio réelles reste à mesurer ; consulter les limites indiquées dans les notes de release.
+TRAPS communique uniquement avec Jugement : plus de découverte, téléchargement de liste, envoi, ACK ou réessai direct TrapsManager. Pénalités prioritaires, justifications/audio et reprises durables conservées. Jugement 0.97 adapte le suivi technique, conserve les anciens téléphones et les renvois volontaires vers Manager depuis le PC. La liaison CompetFFCK TCP/LUA ne change pas. Le suivi Wi-Fi/antenne et la fin de course manuelle sont aussi inclus.
 
 ## Guides illustrés
 
-- [Guide TRAPS 2.0 pour Android (13 pages)](guides/Guide_TRAPS_2.0.pdf)
-- [Guide Jugement TRAPS - Serveur et Juge Arbitre (15 pages)](guides/Guide_Jugement_TRAPS.pdf)
+- [Guide TRAPS 2.0 pour Android (14 pages)](guides/Guide_TRAPS_2.0.pdf)
+- [Guide Jugement TRAPS - Serveur et Juge Arbitre (16 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence des guides : versions du catalogue APK120/Jugement 0.79, avec les fonctions d’essai APK121/Jugement 0.84 clairement signalées, révision du 17 novembre 2026. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence des guides : APK126 et Jugement0.97 officiels, révision du20novembre2026. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
@@ -57,4 +51,4 @@ Pour une installation existante de Jugement : arrêter l’ancien serveur, garde
 
 L’installateur demande les droits administrateur et configure la réception sur le réseau local. À partir de Jugement 0.70, **Installer et redémarrer** télécharge, vérifie, arrête proprement puis relance le programme, après confirmation de l’opérateur. Aucun téléchargement du paquet ni installation sans cet accord. Pour installer 0.70 depuis une version antérieure, utiliser une dernière fois **Arrêter Jugement et quitter** puis lancer l’installateur téléchargé. Fermer seulement le visualiseur laisse la réception fonctionner en arrière-plan. Les demandes de sécurité Windows peuvent rester nécessaires.
 
-Validation de Jugement 0.70 : 676 tests réussis sur Windows, contrôle du programme autonome, de son rendu Qt et de l’assistant séparé. Le premier essai opérationnel du visualiseur, de l’impression et des fenêtres sur plusieurs écrans reste à réaliser sur les PC de course. L’installateur n’a pas de certificat commercial de signature Windows.
+La fabrication Windows vérifie les tests de réception, le programme autonome, son rendu Qt et l’assistant séparé. Les limites des essais sont précisées dans les notes de chaque release. Le premier essai opérationnel du visualiseur, de l’impression et des fenêtres sur plusieurs écrans reste à réaliser sur les PC de course. L’installateur n’a pas de certificat commercial de signature Windows.
