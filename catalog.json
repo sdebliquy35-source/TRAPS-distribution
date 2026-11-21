@@ -95,16 +95,26 @@
     },
     "jugement": {
       "latest": {
-        "build": 98,
-        "version": "0.98",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-98/Jugement_TRAPS_0.98_Windows_x64.exe",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-98",
-        "sha256": "d39f7b123357ebf592fa870ff2189804df7e4328c29f84fa269429cf80ead5fa",
-        "bytes": 133815572,
+        "build": 99,
+        "version": "0.99",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-99/Jugement_TRAPS_0.99_Windows_x64.exe",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-99",
+        "sha256": "af9d3e8955840437a6026ee48a5daa755505759dc8b7ee150bd1c4123ba5fa8d",
+        "bytes": 133808716,
         "installerProtocol": 1,
         "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
       },
       "releases": [
+        {
+          "build": 99,
+          "version": "0.99",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-99/Jugement_TRAPS_0.99_Windows_x64.exe",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-99",
+          "sha256": "af9d3e8955840437a6026ee48a5daa755505759dc8b7ee150bd1c4123ba5fa8d",
+          "bytes": 133808716,
+          "installerProtocol": 1,
+          "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
+        },
         {
           "build": 98,
           "version": "0.98",
@@ -192,14 +202,6 @@
           "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-69",
           "sha256": "c1a0077d7cdecfaeb40c2c08021573c821f083ff1b6e5254dfb23f51a6743f64",
           "bytes": 124127441
-        },
-        {
-          "build": 68,
-          "version": "0.68",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-68/Jugement_TRAPS_0.68_Windows_x64.exe",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-68",
-          "sha256": "1faecaacc1e61f52d0d046b44f98298670559de88995fbe015ac904eecc54469",
-          "bytes": 123523320
         }
       ]
     },
