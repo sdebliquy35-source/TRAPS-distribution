@@ -5,7 +5,7 @@
 >
 > Installez cette mise à jour une fois depuis votre navigateur :
 >
-> **[Télécharger Jugement 0.98 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-98/Jugement_TRAPS_0.98_Windows_x64.exe)**
+> **[Télécharger Jugement 0.99 pour Windows](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-99/Jugement_TRAPS_0.99_Windows_x64.exe)**
 >
 > 1. Téléchargez le fichier dans votre navigateur.
 > 2. Dans Jugement, choisissez **Arrêter Jugement et quitter**. Fermer seulement la fenêtre ne suffit pas.
@@ -21,23 +21,23 @@ Les téléchargements sont publics et ne nécessitent pas de compte GitHub. Les 
 
 ## Versions disponibles
 
-- **[Jugement TRAPS 0.98 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-98/Jugement_TRAPS_0.98_Windows_x64.exe)**
+- **[Jugement TRAPS 0.99 — Windows 10/11 64 bits](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-99/Jugement_TRAPS_0.99_Windows_x64.exe)**
 - **[TRAPS 2.0 — APK126 Android](https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-126/TRAPS_2.0_APK126.apk)**
 
-Versions officielles **Jugement0.98** et **TRAPS2.0 APK126**. Elles réunissent les évolutions validées de réception, d’ACK durables et de rattrapage, les juges déportés Slalom, les priorités de chronos, les comparaisons de fiches par poste et le suivi des tableaux dans l’ordre des départs. APK126 conserve le rôle chrono déjà confirmé lors du vidage de la course en mode automatique ; l’essai revient désarmé. Installer comme mise à jour, sans désinstaller les applications.
+Versions officielles **Jugement0.99** et **TRAPS2.0 APK126**. Elles réunissent les évolutions validées de réception, d’ACK durables et de rattrapage, les juges déportés Slalom, les priorités de chronos, les comparaisons de fiches par poste et le suivi des tableaux dans l’ordre des départs. APK126 conserve le rôle chrono déjà confirmé lors du vidage de la course en mode automatique ; l’essai revient désarmé. Installer comme mise à jour, sans désinstaller les applications.
 
 Le bouton **Mise à jour → TRAPS2.0 · téléphones** recherche la version officielle sur GitHub. Après confirmation de **Télécharger et distribuer**, Jugement télécharge et vérifie l’APK, la conserve dans son dossier de données et prévient les téléphones actifs par la messagerie existante. Ils peuvent la télécharger depuis **Jugement local, sans Internet**, puis confirmer leur installation hors saisie. Aucun explorateur de fichiers ne s’ouvre. La mise à jour directe via GitHub reste possible sur les téléphones ; la signature Android historique est conservée.
 
-Jugement0.98 corrige aussi un blocage lors d’une seconde demande de vidage, distingue ce suivi d’un vrai brouillon et guide la correction d’une ancienne adresse WebSocket. Les téléphones absents ne sont pas requis pour terminer un vidage. Aucun changement des sauvegardes durables, des ACK ou du circuit CompetFFCK.
+Jugement0.99 rend le vidage autonome : il se termine sans téléphone connecté et sans maintenir la fenêtre de suivi ouverte ; une attente reprend au démarrage du Serveur. Le Poste JA demande uniquement l’IP du Serveur, l’adresse complète étant générée automatiquement. Les bandeaux et filtres ont été harmonisés. Archivage préalable, protections des téléphones actifs, sauvegardes durables, ACK et circuit CompetFFCK conservés.
 
-TRAPS communique uniquement avec Jugement : plus de découverte, téléchargement de liste, envoi, ACK ou réessai direct TrapsManager. Pénalités prioritaires, justifications/audio et reprises durables conservées. Jugement 0.98 adapte le suivi technique, conserve les anciens téléphones et les renvois volontaires vers Manager depuis le PC. La liaison CompetFFCK TCP/LUA ne change pas. Le suivi Wi-Fi/antenne et la fin de course manuelle sont aussi inclus.
+TRAPS communique uniquement avec Jugement : plus de découverte, téléchargement de liste, envoi, ACK ou réessai direct TrapsManager. Pénalités prioritaires, justifications/audio et reprises durables conservées. Jugement 0.99 adapte le suivi technique, conserve les anciens téléphones et les renvois volontaires vers Manager depuis le PC. La liaison CompetFFCK TCP/LUA ne change pas. Le suivi Wi-Fi/antenne et la fin de course manuelle sont aussi inclus.
 
 ## Guides illustrés
 
 - [Guide TRAPS 2.0 pour Android (14 pages)](guides/Guide_TRAPS_2.0.pdf)
 - [Guide Jugement TRAPS - Serveur et Juge Arbitre (16 pages)](guides/Guide_Jugement_TRAPS.pdf)
 
-Les guides sont mis à jour à ces mêmes liens. Référence des guides : APK126 et Jugement0.98 officiels, révision du20novembre2026. Les captures utilisent une course fictive.
+Les guides sont mis à jour à ces mêmes liens. Référence des guides : APK126 et Jugement0.99 officiels, révision du21novembre2026. Les captures utilisent une course fictive.
 
 ## Installation et mises à jour
 
