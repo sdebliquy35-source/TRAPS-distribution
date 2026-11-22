@@ -95,16 +95,26 @@
     },
     "jugement": {
       "latest": {
-        "build": 99,
-        "version": "0.99",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-99/Jugement_TRAPS_0.99_Windows_x64.exe",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-99",
-        "sha256": "af9d3e8955840437a6026ee48a5daa755505759dc8b7ee150bd1c4123ba5fa8d",
-        "bytes": 133808716,
+        "build": 105,
+        "version": "0.105",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-105/Jugement_TRAPS_0.105_Windows_x64.exe",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-105",
+        "sha256": "62b12fcd61358803923649d9102389ce704dfdaaf308db5fe0bdd453814ecb0b",
+        "bytes": 133804086,
         "installerProtocol": 1,
         "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
       },
       "releases": [
+        {
+          "build": 105,
+          "version": "0.105",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-105/Jugement_TRAPS_0.105_Windows_x64.exe",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-105",
+          "sha256": "62b12fcd61358803923649d9102389ce704dfdaaf308db5fe0bdd453814ecb0b",
+          "bytes": 133804086,
+          "installerProtocol": 1,
+          "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
+        },
         {
           "build": 99,
           "version": "0.99",
@@ -194,14 +204,6 @@
           "bytes": 133422193,
           "installerProtocol": 1,
           "licenseSha256": "2e73860416a50908878eeff679b9a31b5e068f20642038454e553c562840f1ce"
-        },
-        {
-          "build": 69,
-          "version": "0.69",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/jugement-69/Jugement_TRAPS_0.69_Windows_x64.exe",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/jugement-69",
-          "sha256": "c1a0077d7cdecfaeb40c2c08021573c821f083ff1b6e5254dfb23f51a6743f64",
-          "bytes": 124127441
         }
       ]
     },
