@@ -3,14 +3,22 @@
   "applications": {
     "traps": {
       "latest": {
-        "build": 127,
-        "version": "2.0.0-127",
-        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-127/TRAPS_2.0_APK127.apk",
-        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-127",
-        "sha256": "2bec7933a85e98857ba12eecb9afb22b59e2903a3d5b63b0b85a6c60b3266ad1",
+        "build": 128,
+        "version": "2.0.0-128",
+        "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-128/TRAPS_2.0_APK128.apk",
+        "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-128",
+        "sha256": "bed311acd8efaef0a72813840c7cb4bb9acaea302c66219ec239b83b564bdfa8",
         "bytes": 2973190
       },
       "releases": [
+        {
+          "build": 128,
+          "version": "2.0.0-128",
+          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-128/TRAPS_2.0_APK128.apk",
+          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-128",
+          "sha256": "bed311acd8efaef0a72813840c7cb4bb9acaea302c66219ec239b83b564bdfa8",
+          "bytes": 2973190
+        },
         {
           "build": 127,
           "version": "2.0.0-127",
@@ -82,14 +90,6 @@
           "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-115",
           "sha256": "b55dad39513203b3a7287946a21025bfe0a6fd79414811894c83a617ca76e045",
           "bytes": 2833486
-        },
-        {
-          "build": 113,
-          "version": "2.0.0-113",
-          "url": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/download/traps-113/TRAPS_2.0_APK113.apk",
-          "page": "https://github.com/sdebliquy35-source/TRAPS-distribution/releases/tag/traps-113",
-          "sha256": "555ba4034f39825559c8a1edfe986615b50d318d2534fa90ca1d731ff4f51fd9",
-          "bytes": 2845774
         }
       ]
     },
